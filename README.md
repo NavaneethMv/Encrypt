@@ -1,2 +1,2 @@
 # Encrypt
-A simple python script to encrypt desired files using AES(Advanced Encryption Standard)
+A simple python script to encrypt and decrypt desired files using AES(Advanced Encryption Standard)
