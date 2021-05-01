@@ -1,7 +1,7 @@
 import argparse
 import pyAesCrypt
 from os import stat, remove
-import sys
+# import sys
 import pyfiglet
 
 
